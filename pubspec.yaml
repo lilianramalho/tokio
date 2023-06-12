@@ -45,6 +45,9 @@ dependencies:
   freezed_annotation: ^2.2.0
   json_annotation: ^4.8.1
   social_login_buttons: ^1.0.7
+  firebase_core: ^2.13.1
+  google_sign_in: ^6.1.4
+  firebase_auth: ^4.6.2
 
 dev_dependencies:
   flutter_test:
